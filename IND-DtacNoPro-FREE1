@@ -24,7 +24,7 @@ setenv CLIENT_CERT 0
 auth none
 auth-nocache
 <auth-user-pass>
-unlissh.com-maxvpn47inb
+unlissh.com-dbxkk57
 maxvpn
 </auth-user-pass>
 <ca>
